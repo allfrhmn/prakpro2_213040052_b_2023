@@ -1,4 +1,4 @@
-# Tugas Studi Kasus Modul 7
+# Tugas Modul 7 - Studi Kasus
 
 - Nama : Allfiandi Rahman
 - NPM : 213040052
