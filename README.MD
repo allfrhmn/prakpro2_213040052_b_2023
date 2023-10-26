@@ -23,7 +23,9 @@ Aplikasi ini adalah sebuah program Java yang dibuat untuk mencatat dan mengelola
 
 6. **Hapus Data:** Pengguna juga dapat menghapus data yang telah disimpan di tabel.
 
-7. **Konfirmasi Sebelum Keluar:** Aplikasi ini memberikan konfirmasi kepada pengguna sebelum keluar dari aplikasi, baik melalui tombol "X" di jendela aplikasi maupun melalui opsi keluar.
+7. **Simpan File ke TXT:** Pengguna juga bisa menyimpan data melalui format txt.
+
+8. **Konfirmasi Sebelum Keluar:** Aplikasi ini memberikan konfirmasi kepada pengguna sebelum keluar dari aplikasi, baik melalui tombol "X" di jendela aplikasi maupun melalui opsi keluar.
 
 ## Panduan Menggunakan Aplikasi Biodata di Java 
 
